@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven Crime Analytics & Visualization Platform",
+  "description": "Karnataka State Police (KSP) SCRB Crime Intelligence Platform with spatiotemporal hotspots, suspect relationship link analysis, socio-economic predictive risk scoring, and Gemini AI MO extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
